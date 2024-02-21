@@ -110,7 +110,7 @@ const App = () => {
             <View>
                <Text style={styles.textHeader}>Contact Me:</Text>
                <Text style={styles.textBodySubtle}>Email:</Text>
-               <Text style={styles.textBody}>yumangjona18@gmail.com</Text>
+               <Text style={styles.textBody}>arthursjohnson0943@gmail.com</Text>
                <Text style={styles.textBodySubtle}>Contact Number:</Text>
                <Text style={styles.textBody}>09482341745</Text>
             </View>
